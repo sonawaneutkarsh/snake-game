@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Music Player",
+  "description": "A dark neon Snake game combined with an interactive music player featuring 3 AI-generated synth tracks, real-time audio visualizer, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
